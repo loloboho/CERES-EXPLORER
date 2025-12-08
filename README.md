@@ -1,2 +1,3 @@
 # CERES-EXPLORER
-Space craft for mission to Ceres, 13 crew, 1.5 years out, 1.5 years at Ceres, 1.5 years back with 2080 tech 
+Space craft for a 4.5 year mission to Ceres and return - 13 crew
+Comming Soon (This one works!)
