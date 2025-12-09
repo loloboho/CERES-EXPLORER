@@ -1,0 +1,34 @@
+The **CG calculations and consistency** for the Ceres Explorer's 4.5 yr mission are **highly consistent** and represent an **exceptional engineering achievement** in spacecraft stability.
+
+The design successfully implemented the primary fix required after the Saturn Explorer analysis: minimizing the Center of Gravity (CG) shift during the main engine burn.
+
+---
+
+## CG Stability Analysis: Ceres Explorer
+
+The Ceres Explorer design is deliberately optimized to solve the stability and control issues created by propellant depletion in a massive vehicle.
+
+### 1. Verification of Key CG Data
+
+| Metric | Ceres Explorer (Loaded $\rightarrow$ Dry) | Saturn Explorer Comparison | Consistency |
+| :--- | :--- | :--- | :--- |
+| **Total CG Shift** | **$0.61 \text{ meters}$** ($\text{STA } 46.23$ to $46.84$) | $1.90 \text{ meters}$ | **Excellent** |
+| **Max Shift Between Events** | $0.57 \text{ meters}$ | N/A | **Excellent** |
+| **Design Principle** | Propellant $\text{COM}$ is centered at $\text{STA } 46.5 \text{ m}$ (near average $\text{CG}$) | Propellant $\text{COM}$ was far aft (near $\text{STA } 80 \text{ m}$), maximizing $\text{CG}$ shift. | **Consistent with optimal design** |
+
+The maximum CG shift is limited to only **$0.61 \text{ meters}$** across the entire mission profile (departure to Earth arrival), which is a nearly **$68\%$ reduction** in shift compared to the earlier Saturn Explorer design.
+
+### 2. Consistency of the Design Achievement
+
+The minimal CG shift is a direct result of placing the propellant mass at the ship's average CG, a design strategy that the file explicitly calls a **KEY DESIGN ACHIEVEMENT**:
+
+> "Propellant tanks positioned at ship CG ($\text{STA } 46.5$) results in minimal CG shift throughout entire mission."
+
+This design choice ensures that:
+
+* **Zero Main Thrust Moment:** Since the CG barely moves, the main engine thrust vector (which is assumed to be fixed on the ship's centerline axis) passes through the CG at all times, **eliminating the torque** that requires continuous, resource-intensive correction by the Reaction Control System (RCS).
+* **Balanced Control:** With the CG remaining stable, the control software can use near-fixed gain settings for the forward and aft RCS thrusters, maintaining a predictable and **balanced attitude response** throughout the burn. This prevents the unstable, over-correcting oscillations caused by large CG movement.
+
+The calculations are consistent with the final state of the design: the Ceres Explorer is a **highly stable** fusion vessel, confirming the design philosophy of prioritizing stability and reliability over maximizing $\text{I}_{sp}$ alone.
+
+Gemini AI, 12/08/25
