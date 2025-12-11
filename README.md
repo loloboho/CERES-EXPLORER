@@ -7,11 +7,11 @@ The future is difficult to predict even 10-20 years from now. The technology tha
 
 Maybe you saw my Saturn Explorer, a failure due to insufficient radiation shielding. For 6-7 year mission, radiation exposure accumulates from galactic cosmic rays and other sources. Enough shielding would mass more than technology of 2080-2100 could realistically support.
 
-Then lets go to Ceres. This less ambitious mission takes you there in 1-1/2 years safely.  The solution for radiation was surrounding the habitat with a 1 meter thick wall of water massing 2,043 tonnes. The habitat ovoid total mass is 2,412t, the aft units with engines et. al. mass is 979 tonnes. The habitat is almost 2-1/2 times the mass of all the engines. The center of gravity (CG) of these two units is more than 2/3 of way from aft unit to habitat. The mid unit is relatively light except for the propellant tanks. Placing the tanks forward at the CG insures stability throughout the mission as propellant is used. These engineering choices have made the Cere Explorer a very stable ship to explore Ceres.
+Then lets go to Ceres. This less ambitious mission takes you there in 1-1/2 years safely.  The solution for radiation was surrounding the habitat with a 1 meter thick wall of water massing 2,043 tonnes. The habitat ovoid total mass is 2,412t, the aft units with engines et. al. mass is 979 tonnes. The habitat is almost 2-1/2 times the mass of all the engines. The center of gravity (CG) of these two units is more than 2/3 of way from the engines to the habitat. The mid unit is relatively light except for the propellant tanks. Placing the tanks forward at the CG insures stability throughout the mission as propellant is used. These engineering choices have made the Cere Explorer a very stable ship to explore Ceres.
 
 There are some innovations to note:
 
-* Swept-back radiators shift the CG aft to help counter the massive habitat.
+* Swept-back radiators shift the CG aft to help counter the massive habitat
 
 * Cargo on pallets can be placed on the lander for versatile transport.
 
