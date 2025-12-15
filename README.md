@@ -8,6 +8,7 @@ A hard science fiction engineering project
 
 
 
+
 The future is difficult to predict even 10-20 years from now. The technology that makes this mission possible is the fusion propulsion system. So, if or when that happens, this ship can make the trip comfortable and safe. Basic aerospace engineering principles are generally followed.
 
 Maybe you saw my Saturn Explorer, a failure due to insufficient radiation shielding. For 6-7 year mission, radiation exposure accumulates from galactic cosmic rays and other sources. Enough shielding would mass more than technology of 2080-2100 could realistically support.
