@@ -27,9 +27,9 @@ There are some innovations to note:
 
 * Aerobic digestion tanks pretreat waste for recycling.
 
-Function drives the design. 
+Function drives the design.
 
-<img width="1920" height="1080" alt="CERES-CG-REV-1 2b" src="https://github.com/user-attachments/assets/3f3596a6-6e7d-4936-b7ef-b9c318d3f3f3" />
+<img width="1920" height="1080" alt="CERES-CG-1 2c" src="https://github.com/user-attachments/assets/61a09f07-73e5-487d-ad74-a63fd0abde73" />
 
 More drawings to come.
 Robert
