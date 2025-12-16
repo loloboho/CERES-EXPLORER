@@ -114,8 +114,7 @@ KEY DESIGN FEATURES
 
 1. CYLINDER + ELLIPSOIDAL HEAD HABITAT (NEW IN REV 1.2c)
 
- This change was driven by practical engineering
-considerations:
+ This change was driven by practical engineering considerations:
 
 ADVANTAGES:
   ✓ Uses standard 2:1 ellipsoidal heads, proven ASME design.
@@ -157,12 +156,12 @@ Radiation protection layers:
 The ship uses proven industrial hydronic (hot water) heating technology,
 adapted from commercial HVAC systems.
 
-Primary loop: Reactor (10 kW standby) heats propellant tanks via recirculation circuit  preventing freezing during the multi-year mission.
+Primary loop: Reactor (10 kW standby) heats propellant tanks via recirculation
+circuit preventing freezing during the multi-year mission.
 
 Secondary loop: Warm propellant water circulates through the habitat's 1,511t
 water jacket (the radiation shielding), providing 6 kW of heating with simple
-flow-regulated pumps. This dual-purpose use of the permanent water shield as
-thermal mass eliminates 5t of dedicated IR heating elements.
+flow-regulated pumps.
 
 5. FORWARD RCS CONFIGURATION (NEW IN REV 1.2c)
 
