@@ -27,4 +27,6 @@ There are some innovations to note:
 
 * Aerobic digestion tanks pretreat waste for recycling.
 
+The mass budget leaves a generous propellant margin after final Earth orbit achieved.
+
 Robert
