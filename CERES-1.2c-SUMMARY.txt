@@ -1,6 +1,6 @@
 ================================================================================
 CERES EXPLORER - REV. 1.2c SUMMARY
-December 15, 2025
+December 16, 2025
 Design & CAD: Robert Brownscombe | Analysis: Claude AI Assistance
 ================================================================================
 
@@ -43,11 +43,6 @@ PERFORMANCE:
 Delta-V Available:       58.3 km/s
 Mission Requirement:     ~32 km/s (includes Earth capture)
 Margin:                  26.3 km/s (82% reserve)
-
-This exceptional margin results from the optimized cylinder + ellipsoidal head
-design. The margin provides flexibility for faster transit (selected: 4.1 years),
-trajectory corrections, extended surface operations, emergency contingencies,
-and potential Belt exploration.
 
 VOLUME:
 Total Enclosed:          7,068 m³ (inside outer pressure hull)
@@ -118,9 +113,8 @@ KEY DESIGN FEATURES
 
 ADVANTAGES:
   ✓ Uses standard 2:1 ellipsoidal heads, proven ASME design.
-    (100+ years of pressure vessel heritage). Cylinder section uses standard
-    industrial rolling processes. Rotating ring fits naturally inside cylinder
-    geometry.
+    (100+ years of pressure vessel heritage). Rotating ring fits naturally
+    inside cylinder geometry.
 
   ✓ Volume: 5,557 m³ habitable volume. 427 m³ per crew member
     (exceptionally spacious for 4.1-year mission)
@@ -135,14 +129,12 @@ STRUCTURAL DETAILS:
 The propellant tanks remain positioned precisely at the ship's center of
 gravity (STA 46.5). As 1,500 tonnes of propellant is consumed during the
 mission, the CG shifts minimally - maintaining stable flight characteristics
-throughout. This positioning is retained from Rev 1.2b and remains a key
-design achievement.
+throughout.
 
 3. OPTIMIZED RADIATION SHIELDING
 
-The 14-meter shadow shield (optimized from original 20m design) provides
-adequate neutron attenuation with 128t mass savings. Shadow cone geometry
-verified: 72.8m separation creates more than adequate shadow diameter at habitat.
+The 14-meter shadow shield provides adequate neutron attenuation. Shadow cone
+geometry graphically verified to be more than adequate to shadow habitat.
 
 Radiation protection layers:
   - 14m × 1m LiH+Boron shield: ~20,000× neutron attenuation
@@ -298,9 +290,9 @@ HABITAT COMFORT:
 With 5,557 m³ habitable volume for 13 crew over 4.1 years, the Ceres Explorer
 provides excellent living conditions:
   - 427 m³ per crew (6× better than ISS: 71 m³/person)
-  - Cylindrical geometry: Natural for deck installation, familiar layout
+  - Cylindrical geometry: optimizes space and mass
   - Rotating ring: Artificial gravity essential for health, exercise, meals
-  - Modern amenities: Comfortable temperature, good air quality, privacy
+  - Modern amenities: Comfortable temperature, recreation, privacy
   - Hydroponics provides fresh air, water and fresh vegetables
   - THE VIEW: Asteroid belt, Ceres, the endless frontier
 
@@ -336,7 +328,7 @@ The optimization achieved 58.3 km/s delta-V, 4.1-year mission, a significant
 improvement over previous designs. This demonstrates that systematic engineering
 combined with practical judgment produces spacecraft that actually work.
 
-The ship has an aesthetic because it is honest - every component, every dimension,
+The ship has an unique aesthetic because it is honest - every component, every dimension,
 every curve justified by engineering necessity and manufacturing reality.
 
 Design by physics, not the appearance. Built by proven methods, not speculation.
