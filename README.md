@@ -1,5 +1,5 @@
 # CERES-EXPLORER
-Space craft for a 4.5 year mission to Ceres - 13 crew
+Space craft for a 4.1 year mission to Ceres - 13 crew
 
 A hard science fiction engineering project. Function drives the design.
 
@@ -27,6 +27,6 @@ There are some innovations to note:
 
 * Aerobic digestion tanks pretreat waste for recycling.
 
-The mass budget leaves a generous propellant margin after final Earth orbit achieved.
+The mass budget leaves a generous 31% propellant margin after final Earth orbit.
 
 Robert
