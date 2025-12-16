@@ -70,7 +70,7 @@ FORWARD UNIT (STA 10-32):
   Storm Shelter (24.5):      85t, 9m ovoid, 0.4m polyethylene
                              Solar particle event protection, pressure vessel
   
-  Batteries/Fuel Cells:      2.2t @ STA 31.5
+  Batteries/Fuel Cells:      2.2t @ STA 32.0
 
 MID SECTION (STA 32-93):
   RCS Thrusters (20.5):      30t, 20 thrusters (4 clusters × 5 each)
