@@ -3,7 +3,7 @@ Space craft for a 4.5 year mission to Ceres - 13 crew
 
 A hard science fiction engineering project. Function drives the design.
 
-<img width="1920" height="1080" alt="CERES-1 2c-side-view" src="https://github.com/user-attachments/assets/e9795767-a13f-4a62-8752-9c7d46c6b315" />
+<img width="1920" height="1080" alt="CERES-1 2c-side-view" src="https://github.com/user-attachments/assets/8ec877db-d972-47f5-a0af-3b611e41d42d" />
 
 The future is difficult to predict even 10-20 years from now. The technology that makes this mission possible is the fusion propulsion system. So, if or when that happens, this ship can make the trip comfortable and safe. Basic aerospace engineering principles are generally followed.
 
