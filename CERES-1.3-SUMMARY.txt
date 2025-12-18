@@ -224,7 +224,7 @@ Theoretical maximum possible:
   Dry (gear on board)     3,086              50.0               11.1m forward
   Dry (no gear)           2,999              49.1               12.0m forward
 --------------------------------------------------------------------------------
-CG shift departure to arrival is 7 meters. Absolute maximum is 12 
+CG shift departure to arrival is 7 meters. Absolute maximum is 12 meters
 
 CG at Earth departure is 46 meters fwd of nozzle thrust point.
   This is adequate with magnetic gimbal 2-3° thrust vector control
