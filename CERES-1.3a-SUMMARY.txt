@@ -340,7 +340,7 @@ Design and CAD Documentation: Robert Brownscombe (AutoCAD R14)
 Analysis & Calculation: AI Assistance
 
 Project Reference: Evolved from Europa, Enceladus, then Ceres missions with numerous
-iterations of the Explorer space craft. The Jupiter and Enceladus missions were not
+iterations of the Explorer space craft. The Jupiter and Saturn missions were not
 realistically feasible with fusion drive. The Astroids are a lot more friendly
 and a good deal closer.
 
