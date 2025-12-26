@@ -226,7 +226,7 @@ Loaded (Earth departure)  4,867              51.0
 Earth orbit (final)       3,256              44.5
 
 --------------------------------------------------------------------------------
-CG shift from Earth departure to final orbit is 6.4m
+CG shift from Earth departure to final orbit is 6.5m
 
 ================================================================================
 PROPELLANT BUDGET (3.2-YEAR MISSION)
