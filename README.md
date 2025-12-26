@@ -13,8 +13,6 @@ Then lets go to Ceres. This less ambitious mission takes you there in 10 months 
 
 There are some innovations to note:
 
-* Cargo on pallets can be placed on the lander for versatile transport.
-
 * The habitat is an ovoid shape to efficiently use the space, reduce surface area and shift CG aft.
 
 * The rotating ring inside the ovoid has air scoops to ventilate the ring.
@@ -24,6 +22,8 @@ There are some innovations to note:
 * Waste heat from the reactor heats the propellant tanks and the ovoid water jacket, hydronic heating.
 
 * Technically developed hydroponics systems for fresh air, water and fresh vegetables.
+
+* Cargo on pallets can be placed on the lander for versatile transport.
 
 The mass budget leaves a generous 466 tonnes of propellant remaining (31%) after final Earth orbit.
 
