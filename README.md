@@ -1,5 +1,5 @@
 # CERES-EXPLORER
-Space craft for a 4.1 year mission to Ceres - 13 crew
+Space craft for a 3.2 year mission to Ceres - 13 crew
 
 A hard science fiction engineering project. Function drives the design.
 
